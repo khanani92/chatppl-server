@@ -29,7 +29,7 @@ $cd app/model/
 ```
 Then open the dbCollection.js file and put your data base URL 
 ```bash
-  mongoose.connect('Data base UR>');
+  mongoose.connect('Data base URL');
 ```
 -	Setting up the API key
 Move to project folder then
