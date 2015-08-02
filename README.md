@@ -45,6 +45,8 @@ Move to project folder then
 ```bash
 $ node server.js
 ```
-Server is Developed on localhost:8080
+ - Server is Developed on localhost:8080
+ - Add API key in the header when hitting an API
+
 #License
 MIT
